@@ -1,0 +1,1 @@
+TOKEN = "AKY SERVICES"
