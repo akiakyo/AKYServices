@@ -1,4 +1,4 @@
-<h1 align="center">🛠️ AKY Services</h1>
+<h1 align="center">AKY Services</h1>
 
 <p align="center">
   <img src="https://media.discordapp.net/attachments/1386703646414209046/1401424618543124500/ChatGPT_Image_Aug_3_2025_11_52_42_AM.png?ex=689385a2&is=68923422&hm=20525f62fdf89406ba55da86cdc1acb5a09e47ce193615b19a70336d56c6c6db&=&format=webp&quality=lossless&width=960&height=960" alt="AKY Services" width="200"/>
@@ -11,7 +11,7 @@
 
 ---
 
-### 📌 About AKY Services
+### About AKY Services
 
 **AKY Services** is a one-man development service founded in **March 2025**, focused on delivering technical solutions for Minecraft server owners. From gameplay mechanics to backend systems — we got it covered.
 
