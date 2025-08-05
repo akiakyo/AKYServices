@@ -87,10 +87,17 @@ class TicketView(discord.ui.View):
     def __init__(self):
         super().__init__(timeout=None)
 
+        # Add a link button manually
+        self.add_item(discord.ui.Button(
+            label="🔗akiakyo.github.io",
+            style=discord.ButtonStyle.link,
+            url="https://akiakyo.github.io"
+        ))
+
     @discord.ui.button(label="Hire Me", style=discord.ButtonStyle.primary, custom_id="hire_me")
     async def hire_me(self, interaction: discord.Interaction, button: discord.ui.Button):
         modal = TicketModal(
-            title="Hire Me Ticket",
+            title="Hire Me",
             custom_id="hire_modal",
             fields=[
                 ui.TextInput(label="Client Name", required=True),
@@ -103,14 +110,16 @@ class TicketView(discord.ui.View):
     @discord.ui.button(label="Concerns / Issues", style=discord.ButtonStyle.secondary, custom_id="concerns")
     async def concerns(self, interaction: discord.Interaction, button: discord.ui.Button):
         modal = TicketModal(
-            title="Concern Ticket",
+            title="Concern / Issues",
             custom_id="concerns_modal",
             fields=[
                 ui.TextInput(label="Client Name", required=True),
                 ui.TextInput(label="Concern", required=True, style=discord.TextStyle.paragraph),
+                # Removed invalid link field
             ]
         )
         await interaction.response.send_modal(modal)
+
 
 def setup(bot: commands.Bot):
     @bot.command()
@@ -120,6 +129,6 @@ def setup(bot: commands.Bot):
         embed = discord.Embed(
             title="📬 Need help or want to hire?",
             description="Click a button below to create a ticket.",
-            color=discord.Color.blurple()
+            color=0x2F3136
         )
         await ctx.send(embed=embed, view=view)
