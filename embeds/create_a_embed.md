@@ -1,14 +1,16 @@
-# import discord
+# Discord Embed Format // Python
 
-# def embed():
-#    embed = discord.Embed(
-#        title="",  # setTitle
-#        url="",  # setURL
-#        description="",  # setDescription
-#        color=0xFFFFFF  # setColor
-#    )
+ import discord
 
-    # # setAuthor
+ def embed():
+  embed = discord.Embed(
+       title="",  # setTitle
+       url="",  # setURL
+      description="",  # setDescription
+     color=0xFFFFFF  # setColor
+   )
+
+     # setAuthor
     # embed.set_author(
     #     name="Author Name",
     #     icon_url="",
@@ -37,4 +39,5 @@
     # )
 
     return embed
+
 
