@@ -1,5 +1,5 @@
 # Discord Embed Format // Python
-
+```py
  import discord
 
  def embed():
@@ -39,5 +39,6 @@
     # )
 
     return embed
+```
 
 
