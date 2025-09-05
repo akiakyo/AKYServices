@@ -1,12 +1,12 @@
-import discord
+# import discord
 
-def embed():
-    embed = discord.Embed(
-        title="",  # setTitle
-        url="",  # setURL
-        description="",  # setDescription
-        color=0xFFFFFF  # setColor
-    )
+# def embed():
+#    embed = discord.Embed(
+#        title="",  # setTitle
+#        url="",  # setURL
+#        description="",  # setDescription
+#        color=0xFFFFFF  # setColor
+#    )
 
     # # setAuthor
     # embed.set_author(
@@ -37,3 +37,4 @@ def embed():
     # )
 
     return embed
+
