@@ -72,7 +72,7 @@ From custom gameplay mechanics to server optimization and backend systems, AKY S
 
 ## 🤝 Partnered With
 
-### Magbungkal.net
+### Magbungkal MC
 
 <p align="left">
   <img 
@@ -83,7 +83,7 @@ From custom gameplay mechanics to server optimization and backend systems, AKY S
 </p>
 
 <p>
-Magbungkal.net is a Minecraft server originally launched in <b>July 2023</b>.
+Magbungkal MC is a Minecraft server originally launched in <b>July 2023</b>.
 Owned by <b>Eyjeey</b> (Discord: <code>@Aj</code>), and actively developed with support from AKY Services.
 </p>
 
@@ -114,7 +114,7 @@ akiakyo
 
 ---
 
-## 🚀 AKY Services
+## AKY Services
 
 Building better Minecraft experiences through:
 
