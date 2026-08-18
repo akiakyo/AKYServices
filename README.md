@@ -76,8 +76,8 @@ From custom gameplay mechanics to server optimization and backend systems, AKY S
 
 <p align="left">
   <img 
-    src="https://media.discordapp.net/attachments/1386703646414209046/1402378443584180366/Magbungkal_new_logo_PNG_Transparent.png?ex=6893b233&is=689260b3&hm=3135194765cffc7bdd95e0b801a7c5bfddf3b739df333d0a2cbbf49f0e147f0c&=&format=webp&quality=lossless&width=960&height=960"
-    alt="Magbungkal.net"
+    src="[https://media.discordapp.net/attachments/1386703646414209046/1402378443584180366/Magbungkal_new_logo_PNG_Transparent.png?ex=6893b233&is=689260b3&hm=3135194765cffc7bdd95e0b801a7c5bfddf3b739df333d0a2cbbf49f0e147f0c&=&format=webp&quality=lossless&width=960&height=960](https://media.discordapp.net/attachments/1490239739184418866/1500343755180609576/Logo_Main_Logo_NOBG.png?ex=6a85d0c2&is=6a847f42&hm=0f506add363fdabdd63a6e3e78264a38d9ddf4c4f569a59adfe2750264d2e332&=&format=webp&quality=lossless&width=640&height=640)"
+    alt="Magbungkal MC"
     width="160"
   />
 </p>
