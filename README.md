@@ -2,7 +2,7 @@
 
 <p align="center">
   <img 
-    src="https://imgur.com/a/FyGZLFY"
+    src="https://i.imgur.com/z9Pj6Nm.png"
     alt="AKY Services Logo"
     width="220"
   />
@@ -39,11 +39,16 @@ From custom gameplay mechanics to server optimization and backend systems, AKY S
 
 ---
 
-## ⚙️ Services Offered
+# ⚙️ Services Offered
 
 <p align="left">
 
-<img src="https://imgur.com/a/jMcn4AW" width="80" alt="DenizenScript Logo"/>
+<!-- Replace with direct i.imgur.com link once available -->
+<img 
+src="https://imgur.com/a/jMcn4AW"
+alt="DenizenScript Logo"
+width="80"
+/>
 
 <img src="https://img.shields.io/badge/Denizen_Scripting-Custom_Gameplay-00AEEF?style=plastic"/>
 
@@ -55,7 +60,7 @@ From custom gameplay mechanics to server optimization and backend systems, AKY S
 
 </p>
 
-### Development
+## Development
 
 - Custom DenizenScript systems
 - NPC interactions and gameplay logic
@@ -64,7 +69,7 @@ From custom gameplay mechanics to server optimization and backend systems, AKY S
 - Discord bot development using Python or Denizen
 - Full Minecraft server development
 
-### Configuration & Optimization
+## Configuration & Optimization
 
 - Paper plugin configuration
 - Performance optimization
@@ -82,17 +87,16 @@ From custom gameplay mechanics to server optimization and backend systems, AKY S
 <p align="left">
 
 <img 
-src="https://imgur.com/a/4xeoF5Q"
+src="https://i.imgur.com/2beNvj9.png"
 alt="Magbungkal MC Logo"
 width="180"
 />
 
 </p>
 
-<p>
-Magbungkal MC is a Minecraft server community originally launched in <b>July 2023</b>.
-Owned by <b>Eyjeey</b> (Discord: <code>@Aj</code>), and actively developed with support from AKY Services.
-</p>
+Magbungkal MC is a Minecraft server community originally launched in **July 2023**.
+
+Owned by **Eyjeey** (Discord: `@Aj`), and actively developed with support from AKY Services.
 
 <p align="left">
 
@@ -120,12 +124,3 @@ Discord: akiakyo
 ```
 
 ---
-
-# AKY Services
-
-Building better Minecraft experiences through:
-
-- Custom development
-- Reliable systems
-- Optimized performance
-- Creative gameplay solutions
